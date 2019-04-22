@@ -10,7 +10,5 @@ description: www.blockchainmentorship.center
 
 ## [Training Program](training-program.md)
 
-## [Contacts ](contacts.md)
-
 
 
