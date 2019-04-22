@@ -1,3 +1,7 @@
+---
+description: www.blockchainmentorship.center
+---
+
 # Blockchain Mentorship Center
 
 ## [About BMC](about-blockchain-mentorship-center.md)
