@@ -1,6 +1,6 @@
 # Blockchain Mentorship Center
 
-## [FAQ](./)
+## [FAQ](frequently-asked-questions.md)
 
 ## [Training Program](training-program.md)
 
