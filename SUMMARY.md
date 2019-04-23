@@ -5,14 +5,14 @@
 * [Training Program](training-program.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 
-## Guides
-
-* [Ethereum](guides/ethereum.md)
-* [Bitcoin](guides/bitcoin.md)
-
 ## Subscriptions
 
 * [Mentor Support](subscriptions/mentor-support.md)
 * [Work on Project](subscriptions/work-on-project.md)
 * [Individual Program](subscriptions/individual-program.md)
+
+## Guides
+
+* [Ethereum](guides/ethereum.md)
+* [Bitcoin](guides/bitcoin.md)
 
